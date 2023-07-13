@@ -1,0 +1,22 @@
+body {
+    display: inline;
+}
+
+#rock {
+    width: 33%;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+#paper {
+    width: 33%;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+#scissors {
+    width: 33%;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
